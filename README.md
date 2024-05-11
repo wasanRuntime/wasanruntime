@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wasanruntime" alt="wasanruntime" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [wasanruntime.github.io/#projects](wasanruntime.github.io/projects)
+- 👨‍💻 All of my projects are available at [wasanruntime.github.io/projects](wasanruntime.github.io/#projects)
 
 - 💬 Ask me about **python, sql, R, JavaScript**
 
